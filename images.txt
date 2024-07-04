@@ -4,3 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 kubesphere/prometheus-operator:v0.55.1
+csiplugin/snapshot-controller:v4.0.0
