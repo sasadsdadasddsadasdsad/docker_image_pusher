@@ -1,1 +1,2 @@
 kubesphere/ks-console:v3.4.1
+docker.io/calico/cni:v3.25.0
